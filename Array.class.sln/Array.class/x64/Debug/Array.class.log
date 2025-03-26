@@ -1,0 +1,4 @@
+﻿  arrayclass.cpp
+C:\Users\USER\Documents\data-structure-lab-2025\Array.class.sln\Array.class\arrayclass.cpp(10,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+C:\Users\USER\Documents\data-structure-lab-2025\Array.class.sln\Array.class\arrayclass.cpp(14,9): warning C4129: 'd': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+  Array.class.vcxproj -> C:\Users\USER\Documents\data-structure-lab-2025\Array.class.sln\x64\Debug\Array.class.exe
