@@ -24,6 +24,7 @@
     <ProjectGuid>{6f7fbaa5-ee56-4a31-889b-aa1f7602e888}</ProjectGuid>
     <RootNamespace>Arrayclass</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Array_class</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
